@@ -1,0 +1,24 @@
+{
+  "employees": [
+    {
+      "name": "Manish lad",
+      "drink": "Tea",
+      "id": 1
+    },
+    {
+      "name": "Rupa Lad",
+      "drink": "Coffee",
+      "id": 2
+    },
+    {
+      "name": "Niru ",
+      "drink": "Tea",
+      "id": 3
+    },
+    {
+      "name": "Natwar",
+      "drink": "Vodka on the rock",
+      "id": 4
+    }
+  ]
+}

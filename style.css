@@ -1,0 +1,28 @@
+body{
+    width: 800px;
+    margin: 0 auto;
+}
+
+.order-ul{
+    padding: 0px;
+    list-style: none;
+}
+
+li{
+    font-size: 18px;
+    background: gainsboro;
+    padding: 11px;
+    margin: 8px;
+}
+
+ul li .edit{
+    display: none;
+}
+
+ul li.edit .edit{
+    display: initial;
+}
+
+ul li.edit .noedit{
+    display: none;
+}
